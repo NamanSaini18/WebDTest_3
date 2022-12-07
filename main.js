@@ -2,7 +2,7 @@ let addBtn = document.querySelector(".add-btn");
 let removeBtn = document.querySelector(".remove-btn");
 let mainCont = document.querySelector(".main-cont");
 let modalCont = document.querySelector(".notes");
-let textareaCont = document.querySelector(".textarea-cont");
+let textareaCont = document.querySelector(".area-text");
 let allPriorityColor = document.querySelectorAll(".priority-color");
 let toolboxColor = document.querySelectorAll(".color");
 
